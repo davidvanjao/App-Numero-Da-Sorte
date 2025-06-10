@@ -1,0 +1,4 @@
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\bin\Release\net9.0-android\publish\br.com.davidvanjao.appnumerodasorte-Signed.aab
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\bin\Release\net9.0-android\publish\br.com.davidvanjao.appnumerodasorte.aab
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\bin\Release\net9.0-android\publish\br.com.davidvanjao.appnumerodasorte-Signed.apk
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\bin\Release\net9.0-android\publish\_Microsoft.Android.Resource.Designer.dll

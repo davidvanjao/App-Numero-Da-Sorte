@@ -1,0 +1,14 @@
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\mauisplash.stamp
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\resizetizer\r\dotnet_bot@3x.png
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\resizetizer\r\dotnet_bot@2x.png
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\resizetizer\r\dotnet_bot.png
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\mauiimage.stamp
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\mauiimage.outputs
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\resizetizer\f\MauiInfo.plist
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\mauifont.stamp
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\resizetizer\f\OpenSans-Regular.ttf
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\resizetizer\f\OpenSans-Semibold.ttf
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\actool\_PartialAppManifest.items
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\actool\_BundleResourceWithLogicalName.items
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\coremlc\_PartialAppManifest.items
+C:\Projetos\CursoNetMAUI\ProjetosMAUI\AppNumeroDaSorte\obj\Debug\net9.0-maccatalyst\android-arm\coremlc\_BundleResourceWithLogicalName.items

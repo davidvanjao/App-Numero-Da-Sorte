@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoNetMAUI\\ProjetosMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4ECD1-948F-4703-922B-92AEF0B6459C}|AppNumeroDaSorte\\AppNumeroDaSorte.csproj|c:\\projetos\\cursonetmaui\\projetosmaui\\appnumerodasorte\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7D4ECD1-948F-4703-922B-92AEF0B6459C}|AppNumeroDaSorte\\AppNumeroDaSorte.csproj|solutionrelative:appnumerodasorte\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4ECD1-948F-4703-922B-92AEF0B6459C}|AppNumeroDaSorte\\AppNumeroDaSorte.csproj|c:\\projetos\\cursonetmaui\\projetosmaui\\appnumerodasorte\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4ECD1-948F-4703-922B-92AEF0B6459C}|AppNumeroDaSorte\\AppNumeroDaSorte.csproj|solutionrelative:appnumerodasorte\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4ECD1-948F-4703-922B-92AEF0B6459C}|AppNumeroDaSorte\\AppNumeroDaSorte.csproj|c:\\projetos\\cursonetmaui\\projetosmaui\\appnumerodasorte\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B7D4ECD1-948F-4703-922B-92AEF0B6459C}|AppNumeroDaSorte\\AppNumeroDaSorte.csproj|solutionrelative:appnumerodasorte\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Projetos\\CursoNetMAUI\\ProjetosMAUI\\AppNumeroDaSorte\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "AppNumeroDaSorte\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Projetos\\CursoNetMAUI\\ProjetosMAUI\\AppNumeroDaSorte\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "AppNumeroDaSorte\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-10T00:10:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoNetMAUI\\ProjetosMAUI\\AppNumeroDaSorte\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppNumeroDaSorte\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Projetos\\CursoNetMAUI\\ProjetosMAUI\\AppNumeroDaSorte\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppNumeroDaSorte\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:26:21.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Projetos\\CursoNetMAUI\\ProjetosMAUI\\AppNumeroDaSorte\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppNumeroDaSorte\\MainPage.xaml",
+              "ToolTip": "C:\\Projetos\\CursoNetMAUI\\ProjetosMAUI\\AppNumeroDaSorte\\MainPage.xaml",
+              "RelativeToolTip": "AppNumeroDaSorte\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T22:16:29.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
