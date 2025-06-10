@@ -18,16 +18,10 @@ Gerador de números aleatórios nativo do .NET.
 📱 Objetivo
 O objetivo deste projeto é exercitar o desenvolvimento de aplicações multiplataforma com .NET MAUI, ao mesmo tempo que entrega uma ferramenta divertida e útil para apostadores da Mega-Sena.
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/davidvanjao/SalesWebMvc.git
-   ```
-
-
 📦 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/davidvanjao/SalesWebMvc.git
+   git clone https://github.com/davidvanjao/App-Numero-Da-Sorte.git
    ```
 2. Abra o projeto no Visual Studio com suporte a .NET MAUI.
 
